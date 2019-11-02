@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Bird Person",
+        "image": "1.png"
+    },
+    {
+        "id": 2,
+        "name": "Morty",
+        "image": "2.png"
+    },
+    {
+        "id": 3,
+        "name": "Rick",
+        "image": "3.png"
+    },
+    {
+        "id": 4,
+        "name": "Summer",
+        "image": "4.png"
+    }
+]

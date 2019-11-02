@@ -1,0 +1,21 @@
+.header-color{
+    background-color: #000000;
+    color: white;
+    padding: 30px;
+
+}
+
+.game-title-area{
+    padding: 100px;
+    text-align: center;
+    background-image: url("./img/background.PNG");
+
+}
+
+.footer-area{
+    text-align: center;
+    background-image: url("./img/background.PNG");
+
+}
+
+
