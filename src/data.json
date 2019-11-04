@@ -1,22 +1,42 @@
 [
     {
-        "id": 1,
+        "id": 0,
         "name": "Bird Person",
-        "image": "1.png"
+        "image": "1.png",
+        "clicked": false
+    },
+    {
+        "id": 1,
+        "name": "Morty",
+        "image": "2.png",
+        "clicked": false
     },
     {
         "id": 2,
-        "name": "Morty",
-        "image": "2.png"
+        "name": "Rick",
+        "image": "3.png",
+        "clicked": false
     },
     {
         "id": 3,
-        "name": "Rick",
-        "image": "3.png"
+        "name": "Summer",
+        "image": "4.png",
+        "clicked": false
     },
     {
         "id": 4,
-        "name": "Summer",
-        "image": "4.png"
+        "name": "Jerry",
+        "image": "5.png",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "name": "Beth",
+        "image": "6.png",
+        "clicked": false
     }
+
+
+
+
 ]
